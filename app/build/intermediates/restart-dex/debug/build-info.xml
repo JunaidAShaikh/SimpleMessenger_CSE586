@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="ldpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="6703673567557"
+    token="-8811608374150628127" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="6659355748785"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/junaid/AndroidStudioProjects/SimpleMessenger/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="6703673567557" />
+
+</instant-run>
